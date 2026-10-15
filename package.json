@@ -1,0 +1,9 @@
+{
+  "name": "number-clash",
+  "version": "1.0.0",
+  "description": "NUMBER CLASH - brutalist multiplayer number game",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "build": "echo No build step needed" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.19.2", "socket.io": "^4.7.5" }
+}
